@@ -1,1 +1,1 @@
-print("sameer puka")
+print("sameer")
